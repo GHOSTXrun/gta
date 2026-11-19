@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://nasduck.org
+Sitemap: https://nasduck.org/sitemap.xml
